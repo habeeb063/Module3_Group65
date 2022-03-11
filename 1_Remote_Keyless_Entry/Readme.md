@@ -9,3 +9,8 @@ This Project is Made by
 * Sharath Kulkarni - 99007894
 * Anurag Tiwari - 99007481
 * K Mohammad Habeeb - 99007895
+
+
+|Build|cppcheck|Codacy
+|:--:|:--:|:--:|:--:|:--:|
+|![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)|![cppcheck-action](https://github.com/stepin654321/MiniProject_Template/workflows/cppcheck-action/badge.svg)|
